@@ -18,3 +18,4 @@ An Electron Rotion clone
 - [Tauri](https://tauri.app/)
 - [RxDB](https://rxdb.info)
 - [SQLite](https://www.sqlite.org/)
+- [i18n-Electron](https://phrase.com/blog/posts/building-an-electron-app-with-internationalization-i18n/)
